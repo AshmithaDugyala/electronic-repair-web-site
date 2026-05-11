@@ -1,0 +1,29 @@
+
+## 🎨 Design Features
+
+- **Color Palette**: Emerald (primary), Slate (neutrals), with accent colors for different device categories
+- **Typography**: Clean, readable fonts with proper hierarchy
+- **Spacing**: Consistent spacing using Tailwind's spacing scale
+- **Animations**: Smooth hover transitions and micro-interactions
+- **Accessibility**: Semantic HTML and proper contrast ratios
+
+## 🔧 Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build locally
+- `npm run lint` - Run ESLint
+
+## 📱 Responsive Breakpoints
+
+- **Mobile**: < 640px (sm)
+- **Tablet**: 640px - 1024px (md)
+- **Desktop**: > 1024px (lg)
+
+## 🤝 Support
+
+For support, email support@techfixpro.com or call +1 (800) 555-TECH.
+
+## 📄 License
+
+© 2024 TechFix Pro. All rights reserved.
