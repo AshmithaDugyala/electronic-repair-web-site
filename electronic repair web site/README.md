@@ -72,3 +72,44 @@ A modern, responsive web application for professional electronic device repair s
 5. **Open in browser**: Navigate to `http://localhost:5173`
 
 ## 📁 Project Structure
+project-folder/
+│
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   │   └── repairs.js
+│   ├── controllers/
+│   │   └── repairController.js
+│   ├── data/
+│   │   └── repairData.json
+│   └── package.json
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Header.tsx
+│   │   │   ├── HeroSection.tsx
+│   │   │   ├── RepairProcess.tsx
+│   │   │   ├── DeviceCategories.tsx
+│   │   │   ├── RepairCard.tsx
+│   │   │   └── Footer.tsx
+│   │   │
+│   │   ├── pages/
+│   │   │   ├── HomePage.tsx
+│   │   │   └── SolutionPage.tsx
+│   │   │
+│   │   ├── services/
+│   │   │   └── api.ts
+│   │   │
+│   │   ├── styles/
+│   │   │   └── global.css
+│   │   │
+│   │   ├── App.tsx
+│   │   ├── main.tsx
+│   │   └── vite-env.d.ts
+│   │
+│   ├── public/
+│   ├── package.json
+│   └── vite.config.ts
+│
+└── README.md
